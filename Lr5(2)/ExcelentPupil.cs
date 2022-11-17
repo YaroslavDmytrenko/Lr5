@@ -15,17 +15,17 @@ namespace ClassRoom
 
         public override void Relax()
         {
-            Console.WriteLine("I relax стьльки time what i need, not more");
+            Console.WriteLine("I relax as much as I need no more");
         }
 
         public override void Study()
         {
-            Console.WriteLine("I'm always go on Deadline, and then i excelent pupil");
+            Console.WriteLine("I always hand in my work on time");
         }
 
         public override void Write()
         {
-            Console.WriteLine("I lite to write a lot anything");
+            Console.WriteLine("I like to write a lot anything");
         }
     }
 }

@@ -25,7 +25,7 @@ namespace ClassRoom
 
         public override void Write()
         {
-            Console.WriteLine("I like art on lessons");
+            Console.WriteLine("I like to draw on lessons");
         }
 
 

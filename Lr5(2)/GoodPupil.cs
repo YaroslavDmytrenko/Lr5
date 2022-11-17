@@ -20,7 +20,7 @@ namespace ClassRoom
 
         public override void Study()
         {
-            Console.WriteLine("I am good studing, it's задовільно");
+            Console.WriteLine("I am good studing, it's satisfactorily");
         }
 
         public override void Write()
